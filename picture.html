@@ -1,0 +1,23 @@
+<!--Daichi Kanasugi
+
+This is the html page for the picture page. It will read 1 picture with the python program running.
+The python program will get the mode, format, and pixel size (width and height) of the picture.
+-->
+
+
+{% extends "bootstrap/base.html" %}
+
+{% block title %}
+Picture
+{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <h1>"{{title_1}}" by {{flickr_user_1}}</h1>
+    <img src="{{url_for('static', filename=picId_1+".jpg")}}" class="img-responsive img-rounded"><br>
+    <p>{{mode}} image in {{format}} format with width {{width}} height {{height}}.</p><br>
+    <a href="http://127.0.0.1:5000/">Back to list of images</a>
+</div>
+
+{% endblock %}
