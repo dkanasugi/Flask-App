@@ -1,7 +1,4 @@
 #Daichi Kanasugi
-#CST 205
-#Due Date: 3/29/2018
-#Professor Avener
 #This is a dictionary of the image_info that will be used to get access to the pictures
 
 image_info = [
