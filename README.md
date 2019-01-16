@@ -13,16 +13,16 @@ These are the following Python packages that is required in the program
 On PowerShell, the FLASK_APP and FLASK_ENV need to changed in the virtual environment for it to run. 
 These are codes that I typed in for declaration/initalization
 
---------Code to for to run flask application----------
+Codes to for to run flask application
 $env:FLASK_APP = "main.py"
 $env:FLASK_ENV = "development"
 flask run
-------------------------------------------------------
 
 After it is running, PowerShell will tell where it is running on. I used Mozilla FireFox and 
 copy and pasted http://127.0.0.1:5000/ on the urlbar. 
 
 Here are some pictures of the randomized pictures and examples of the output (mode, type, and size).
+
 Main Page Example 1:
 https://github.com/dkanasugi/Flask-App/blob/master/result_pics/main1.png
 
