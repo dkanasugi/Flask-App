@@ -24,13 +24,13 @@ copy and pasted http://127.0.0.1:5000/ on the urlbar.
 
 Here are some pictures of the randomized pictures and examples of the output (mode, type, and size).
 Main Page Example 1:
-![alt text]https://github.com/dkanasugi/Flask-App/blob/master/result_pics/main1.png
+https://github.com/dkanasugi/Flask-App/blob/master/result_pics/main1.png
 
 Result Page Example 1:
-![alt text]https://github.com/dkanasugi/Flask-App/blob/master/result_pics/pic1.png
+https://github.com/dkanasugi/Flask-App/blob/master/result_pics/pic1.png
 
 Main Page Example 2:
-![alt text]https://github.com/dkanasugi/Flask-App/blob/master/result_pics/main2.png
+https://github.com/dkanasugi/Flask-App/blob/master/result_pics/main2.png
 
 Result Page Example 2:
-![alt text]https://github.com/dkanasugi/Flask-App/blob/master/result_pics/pic2.png
+https://github.com/dkanasugi/Flask-App/blob/master/result_pics/pic2.png
