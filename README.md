@@ -14,7 +14,7 @@ These are the following Python packages that is required in the program:
 On PowerShell, the FLASK_APP and FLASK_ENV need to changed in the virtual environment for it to run. 
 These are codes that I typed in for declaration/initalization on PowerShell.
 
-Codes to for to run flask application:
+Codes to for to run flask application:</br>
 <b> $env:FLASK_APP = "main.py"</b></br>
 <b> $env:FLASK_ENV = "development" </b></br>
 <b> flask run </b></br>
